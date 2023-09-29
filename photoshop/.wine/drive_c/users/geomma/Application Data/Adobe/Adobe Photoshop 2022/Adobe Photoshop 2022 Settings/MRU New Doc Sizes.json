@@ -1,0 +1,40 @@
+{
+    "presets": [
+        {
+            "name": "Custom",
+            "identifier": "",
+            "group": "",
+            "width": 209.97333333333337,
+            "height": 360.00266666666666,
+            "units": "millimetersUnit",
+            "profile": "sRGB IEC61966-2.1",
+            "resolution": 300.0,
+            "resolutionUnits": "inchesUnit",
+            "depth": 8,
+            "scale": 1.0,
+            "mode": "RGB",
+            "fill": "white",
+            "guides": [],
+            "artboards": [],
+            "lastUsedTime": 1654675167875
+        },
+        {
+            "name": "Default Photoshop Size",
+            "identifier": "",
+            "group": "default",
+            "width": 16.002,
+            "height": 11.997266666666669,
+            "units": "centimetersUnit",
+            "profile": "default",
+            "resolution": 300.0,
+            "resolutionUnits": "inchesUnit",
+            "depth": 8,
+            "scale": 1.0,
+            "mode": "RGB",
+            "fill": "white",
+            "guides": [],
+            "artboards": [],
+            "lastUsedTime": 1654592331525
+        }
+    ]
+}
